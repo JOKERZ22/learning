@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/learning_redis/learning_redis.iml
+/learning_webservice/learning_webservice.iml
+/learning_rabbitmq/learning_rabbitmq.iml
+/learning_kafka/learning_kafka.iml
+/learning_cloud/learning_cloud.iml
+/learning_rabbitmq/learning_rabbitmq_consumer/learning_rabbitmq_consumer.iml
+/learning_rabbitmq/learning_rabbitmq_provider/learning_rabbitmq_provider.iml
+/learning_kafka/learning_kafka_consumer/learning_kafka_consumer.iml
+/learning_kafka/learning_kafka_provider/learning_kafka_provider.iml
+/learning_webservice/learning_webservice_consumer/learning_webservice_consumer.iml
+/learning_webservice/learning_webservice_provider/learning_webservice_provider.iml
+/learning_cloud/learning_cloud_eureka/learning_cloud_eureka.iml
+/learning_cloud/learning_cloud_eureka/target/
