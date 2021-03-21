@@ -77,14 +77,20 @@
 | private   | 定义为`private`的`field`、`method`无法被其他类访问；嵌套类拥有访问`private`的权限 |
 
 
+### Java内部类
+
+
+|                                   | 特点                                      |
+| --------------------------------- | ----------------------------------------- |
+| 内部类（Inner Class）             | 依附于外部类，可以访问外部类的private字段 |
+| 匿名内部类（Anonymous Class）     | 同上，不用声明引用                        |
+| 静态内部类（Static Nested Class） | 独立，可以访问外部类的静态字段            |
+
+
 ### 异常体系
 
 
-![异常体系](../pic/javase/se_exception_tree.jpg)
-
-
-
-
+![异常体系](http://img.tuoluoleaf.com/img/se_exception_tree.jpg)
 
 
 ### 函数式编程
