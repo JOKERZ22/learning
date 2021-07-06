@@ -5,11 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
- * <p>ClassName: EurekaApplication</p>
- * <p>Description: eureka</p>
- * <p>Author: ZhangWei</p>
- * <p>Date: 2021-03-16</p>
- */
+ * @author wei.zhang
+ * @className EurekaApplication
+ * @description EurekaApplication
+ * @date 2021/7/6
+ **/
 @SpringBootApplication
 @EnableEurekaServer
 public class EurekaApplication {

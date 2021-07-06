@@ -7,7 +7,6 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.4.3</version>
-        <relativePath/>
     </parent>
 
     <groupId>cn.shaonianyou</groupId>
@@ -26,6 +25,7 @@
         <module>learning_rabbitmq</module>
         <module>learning_kafka</module>
         <module>learning_cloud</module>
+        <module>learning_bigdata</module>
     </modules>
 
 </project>

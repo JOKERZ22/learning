@@ -35,3 +35,6 @@ hs_err_pid*
 /learning_webservice/learning_webservice_provider/learning_webservice_provider.iml
 /learning_cloud/learning_cloud_eureka/learning_cloud_eureka.iml
 /learning_cloud/learning_cloud_eureka/target/
+/learning.iml
+/learning_bigdata/learning_bigdata.iml
+/learning_bigdata/learning_bigdata_kettle/learning_bigdata_kettle.iml
