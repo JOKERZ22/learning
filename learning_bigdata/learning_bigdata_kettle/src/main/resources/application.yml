@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kettle
+server:
+  port: 9002
+
+kettle:
+  plugins:
+    path: C:\\Programs\\Kettle\\data-integration\\plugins

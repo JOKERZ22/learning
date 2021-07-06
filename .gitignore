@@ -38,3 +38,6 @@ hs_err_pid*
 /learning.iml
 /learning_bigdata/learning_bigdata.iml
 /learning_bigdata/learning_bigdata_kettle/learning_bigdata_kettle.iml
+!/learning_bigdata/learning_bigdata_kettle/lib
+/learning_common/learning_common.iml
+/learning_bigdata/learning_bigdata_kettle/target/
